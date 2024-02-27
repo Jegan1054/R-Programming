@@ -1,0 +1,5 @@
+num=c(19,46,56,78,63,56,34)
+print('original vector')
+print(num)
+print(paste("maximum number in given vector:",max(num)))
+print(paste("minimum number in given vector:",min(num)))

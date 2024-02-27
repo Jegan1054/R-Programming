@@ -1,0 +1,5 @@
+data("women")
+height_factor <- factor(women$height)
+weight_factor <- factor(women$weight)
+print(levels(height_factor))
+print(levels(weight_factor))

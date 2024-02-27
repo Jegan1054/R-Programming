@@ -1,0 +1,5 @@
+name=readline(prompt="enter your name:")
+age=readline(prompt="enter your age:")
+print(name)
+print(age)
+print(R.version.string)
